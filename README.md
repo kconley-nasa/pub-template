@@ -1,2 +1,2 @@
-# pubtest
-pubtest
+# pub-template
+pub-template
