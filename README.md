@@ -1,6 +1,6 @@
 ------------------------------------------------------
 
-# A README template mandatory for inner-source repos and optional for everyone else
+# A README template that is mandatory for any repository on https://github.com/NASA-github-test
 
 ### Instructions for how to use:
 
